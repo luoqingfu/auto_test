@@ -1,0 +1,37 @@
+{
+  "features" : [ {
+    "title" : "test_module_01",
+    "statistic" : {
+      "total" : 1,
+      "passed" : 1,
+      "pending" : 0,
+      "canceled" : 0,
+      "failed" : 0,
+      "broken" : 0
+    },
+    "stories" : [ {
+      "uid" : "91d538857c8f4d70",
+      "title" : "test_story_o1",
+      "statistic" : {
+        "total" : 1,
+        "passed" : 1,
+        "pending" : 0,
+        "canceled" : 0,
+        "failed" : 0,
+        "broken" : 0
+      },
+      "testCases" : [ {
+        "uid" : "f2f054f27ea8ee6e",
+        "name" : "test_answer",
+        "title" : "Test answer",
+        "time" : {
+          "start" : 1542619832611,
+          "stop" : 1542619832614,
+          "duration" : 3
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      } ]
+    } ]
+  } ]
+}
