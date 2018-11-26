@@ -1,23 +1,26 @@
 {
-  "uid" : "abe24b2d12c2967b",
+  "uid" : "dc62b8cdd0cc3917",
   "name" : "test_answer",
   "title" : "Test answer",
   "time" : {
-    "start" : 1542619528240,
-    "stop" : 1542619528242,
-    "duration" : 2
+    "start" : 1542697442331,
+    "stop" : 1542697442335,
+    "duration" : 4
   },
   "summary" : {
     "attachments" : 0,
     "steps" : 0
   },
   "failure" : null,
-  "description" : null,
+  "description" : {
+    "value" : "\n    用例描述1：test case 01\n    :return:\n    ",
+    "type" : "TEXT"
+  },
   "severity" : "NORMAL",
   "status" : "PASSED",
   "testId" : null,
   "suite" : {
-    "uid" : "6043eab48d44ef84",
+    "uid" : "2215919ce8c722fd",
     "name" : "test_sample",
     "title" : "Test sample"
   },
@@ -29,10 +32,13 @@
     "value" : "QFdeMacBook-Pro.local"
   }, {
     "name" : "thread",
-    "value" : "9759-MainThread"
+    "value" : "4605-MainThread"
   }, {
     "name" : "suite-name",
     "value" : "test_sample"
+  }, {
+    "name" : "feature",
+    "value" : "test_module_01"
   }, {
     "name" : "framework",
     "value" : "pytest"
@@ -42,6 +48,9 @@
   }, {
     "name" : "severity",
     "value" : "normal"
+  }, {
+    "name" : "story",
+    "value" : "test_story_o1"
   }, {
     "name" : "language",
     "value" : "cpython3"

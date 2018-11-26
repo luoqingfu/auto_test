@@ -1,11 +1,11 @@
 {
-  "uid" : "f2f054f27ea8ee6e",
+  "uid" : "f333f06ea5f90678",
   "name" : "test_answer",
   "title" : "Test answer",
   "time" : {
-    "start" : 1542619832611,
-    "stop" : 1542619832614,
-    "duration" : 3
+    "start" : 1542695487788,
+    "stop" : 1542695487790,
+    "duration" : 2
   },
   "summary" : {
     "attachments" : 0,
@@ -20,7 +20,7 @@
   "status" : "PASSED",
   "testId" : null,
   "suite" : {
-    "uid" : "913a7603fce9eaa4",
+    "uid" : "ac760c4c85de45e2",
     "name" : "test_sample",
     "title" : "Test sample"
   },
@@ -28,9 +28,6 @@
   "attachments" : [ ],
   "issues" : [ ],
   "labels" : [ {
-    "name" : "thread",
-    "value" : "9858-MainThread"
-  }, {
     "name" : "host",
     "value" : "QFdeMacBook-Pro.local"
   }, {
@@ -51,6 +48,9 @@
   }, {
     "name" : "story",
     "value" : "test_story_o1"
+  }, {
+    "name" : "thread",
+    "value" : "4026-MainThread"
   }, {
     "name" : "language",
     "value" : "cpython3"

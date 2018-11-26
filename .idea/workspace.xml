@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="887f7695-64f1-4552-bf07-ee562eccee3e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/37f287bf-1278-44d2-9767-517dcb1c2ec8-testsuite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/css/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/data/abe24b2d12c2967b-testcase.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/data/behaviors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/data/defects.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/data/environment.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/data/f2f054f27ea8ee6e-testcase.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/data/graph.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/data/plugins.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/data/report.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/data/timeline.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/data/total.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/data/widgets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/data/xunit.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/flash/clippy.swf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/img/allure-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/img/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/img/tests_passed.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/js/charts/charts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/js/charts/duration.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/js/charts/pie.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/js/charts/severityMap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/js/charts/timeline.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/js/controllers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/js/directives.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/js/filters.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/js/overview/widgets.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/js/pane/pane.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/js/pluginApi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/js/scrollfix/scrollfix.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/js/services.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/js/table/table.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/js/testcase/list.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/js/testcase/provider.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/js/testcase/statusSwitcher.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/js/testcase/testcase.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/plugins/behaviors/en.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/plugins/behaviors/ptbr.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/plugins/behaviors/ru.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/plugins/behaviors/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/plugins/behaviors/tab.tpl.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/plugins/defects/en.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/plugins/defects/ptbr.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/plugins/defects/ru.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/plugins/defects/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/plugins/defects/tab.tpl.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/plugins/environment/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/plugins/graph/en.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/plugins/graph/ptbr.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/plugins/graph/ru.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/plugins/graph/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/plugins/graph/tab.tpl.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/plugins/timeline/en.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/plugins/timeline/ptbr.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/plugins/timeline/ru.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/plugins/timeline/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/plugins/timeline/tab.tpl.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/plugins/total/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/plugins/xunit/en.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/plugins/xunit/ptbr.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/plugins/xunit/ru.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/plugins/xunit/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/plugins/xunit/tab.tpl.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/plugins/xunit/testrun.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/plugins/xunit/testsuite.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/templates/overview.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/templates/overview/defects.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/templates/overview/keyValue.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/templates/overview/statistics.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/templates/overview/total.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/templates/table/table.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/templates/testcase/attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/templates/testcase/list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/templates/testcase/status-switcher.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/templates/testcase/testcase.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/templates/testcase/testcaseView.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/translations/en.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/translations/ptbr.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/translations/ru.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/vendor/filesize.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/vendor/localstorageprovider.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/vendor/messageformat/en.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/vendor/messageformat/ptbr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/vendor/messageformat/ru.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/webjars/Sortable/1.2.0/Sortable.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/webjars/Sortable/1.2.0/ng-sortable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/webjars/angular-loading-bar/0.6.0/loading-bar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/webjars/angular-translate-interpolation-messageformat/0.1.2/angular-translate-interpolation-messageformat.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/webjars/angular-translate-loader-partial/2.6.0/angular-translate-loader-partial.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/webjars/angular-translate/2.6.0/angular-translate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/webjars/angular-ui-bootstrap/0.11.2/ui-bootstrap-tpls.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/webjars/angular-ui-router/0.2.13/angular-ui-router.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/webjars/angularjs/1.2.26/angular-animate.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/webjars/angularjs/1.2.26/angular.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/webjars/d3js/3.4.11/d3.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/webjars/font-awesome/4.2.0/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/webjars/font-awesome/4.2.0/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/webjars/font-awesome/4.2.0/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/webjars/font-awesome/4.2.0/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/webjars/font-awesome/4.2.0/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/webjars/highlightjs/8.2-1/highlight.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/webjars/jquery/2.1.1/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/webjars/messageformat.js/0.1.4/messageformat.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_sample.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_sample.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thefirsttest.py" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/auto_test$pytest_in_thefirsttest_py.coverage" NAME="pytest in thefirsttest.py Coverage Results" MODIFIED="1542618446188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-2074767351">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="6" />
+          <entry key="md" value="1" />
+          <entry key="py" value="7" />
+          <entry key="xml" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="6" />
+          <entry key="Markdown" value="1" />
+          <entry key="Python" value="7" />
+          <entry key="XML" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="5" />
+          <entry key="py" value="381" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="5" />
+          <entry key="Python" value="381" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_sample.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <marker date="1542890977939" expanded="true" signature="139:144" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/report/html/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="47" lean-forward="true" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/thefirsttest.py" />
+        <option value="$PROJECT_DIR$/sample.py" />
+        <option value="$PROJECT_DIR$/test_sample.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="438" />
+    <option name="y" value="51" />
+    <option name="width" value="1440" />
+    <option name="height" value="841" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="auto_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="auto_test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="auto_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="auto_test" type="462c0819:PsiDirectoryNode" />
+              <item name="report" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="auto_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="auto_test" type="462c0819:PsiDirectoryNode" />
+              <item name="report" type="462c0819:PsiDirectoryNode" />
+              <item name="html" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="auto_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="pytest in thefirsttest.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="auto_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/thefirsttest.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest in thefirsttest.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="887f7695-64f1-4552-bf07-ee562eccee3e" name="Default Changelist" comment="" />
+      <created>1542181307709</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542181307709</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="pytest_in_thefirsttest_py - 2018.11.19 at 15h 38m 47s.xml">
+      <configuration name="pytest in thefirsttest.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_thefirsttest_py - 2018.11.19 at 15h 41m 55s.xml">
+      <configuration name="pytest in thefirsttest.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_thefirsttest_py - 2018.11.19 at 15h 45m 17s.xml">
+      <configuration name="pytest in thefirsttest.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_thefirsttest_py - 2018.11.19 at 17h 05m 35s.xml">
+      <configuration name="pytest in thefirsttest.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_thefirsttest_py - 2018.11.19 at 17h 07m 27s.xml">
+      <configuration name="pytest in thefirsttest.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="438" y="51" width="1440" height="841" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18168813" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32931727" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32931727" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="R Graphics" order="4" />
+      <window_info anchor="right" id="R Packages" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.pytest_cache/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/allure/structure.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="22" column="6" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/allure/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/report/4f493492-3572-4bc5-a14a-44112cf8b770-testsuite.xml" />
+    <entry file="file://$PROJECT_DIR$/allure-results/ef62c654-328c-4b4c-9674-d46a06464ff4-testsuite.xml" />
+    <entry file="file://$PROJECT_DIR$/report/82552f65-0ca5-44c9-9bad-081965000269-testsuite.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thefirsttest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_sample.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <marker date="1542890977939" expanded="true" signature="139:144" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/report/html/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="47" lean-forward="true" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

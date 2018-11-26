@@ -6,6 +6,6 @@ import allure
 def test_answer():
     """
     用例描述1：test case 01
-    :return:
+
     """
-    assert 1 + 2 == 3
+    assert 1 + 2 == 2
