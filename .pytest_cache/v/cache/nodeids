@@ -1,3 +1,4 @@
 [
-  "test_sample.py::test_answer"
+  "TestCase/test_sample.py::test_answer",
+  "TestCase/userinfo_test.py::TestUserInfo::test_userinfo"
 ]

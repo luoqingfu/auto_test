@@ -1,36 +1,70 @@
 {
   "features" : [ {
-    "title" : "test_module_01",
+    "title" : "Without feature",
     "statistic" : {
       "total" : 1,
-      "passed" : 1,
+      "passed" : 0,
       "pending" : 0,
-      "canceled" : 0,
+      "canceled" : 1,
       "failed" : 0,
       "broken" : 0
     },
     "stories" : [ {
-      "uid" : "1a26e6f83eabb58a",
-      "title" : "test_story_o1",
+      "uid" : "ff5d1eabc6c553de",
+      "title" : "Without story",
       "statistic" : {
         "total" : 1,
-        "passed" : 1,
+        "passed" : 0,
         "pending" : 0,
-        "canceled" : 0,
+        "canceled" : 1,
         "failed" : 0,
         "broken" : 0
       },
       "testCases" : [ {
-        "uid" : "4a8288b6e766bb9d",
+        "uid" : "b3977af673a9a612",
+        "name" : "TestUserInfo.test_userinfo",
+        "title" : "Test userinfo",
+        "time" : {
+          "start" : 1543996563818,
+          "stop" : 1543996563818,
+          "duration" : 0
+        },
+        "severity" : "NORMAL",
+        "status" : "CANCELED"
+      } ]
+    } ]
+  }, {
+    "title" : "test_module_01",
+    "statistic" : {
+      "total" : 1,
+      "passed" : 0,
+      "pending" : 0,
+      "canceled" : 1,
+      "failed" : 0,
+      "broken" : 0
+    },
+    "stories" : [ {
+      "uid" : "4f2cd5ed6f5ca6a8",
+      "title" : "test_story_o1",
+      "statistic" : {
+        "total" : 1,
+        "passed" : 0,
+        "pending" : 0,
+        "canceled" : 1,
+        "failed" : 0,
+        "broken" : 0
+      },
+      "testCases" : [ {
+        "uid" : "914e1e68585e9c2d",
         "name" : "test_answer",
         "title" : "Test answer",
         "time" : {
-          "start" : 1543196380875,
-          "stop" : 1543196380877,
-          "duration" : 2
+          "start" : 1543996563812,
+          "stop" : 1543996563817,
+          "duration" : 5
         },
         "severity" : "NORMAL",
-        "status" : "PASSED"
+        "status" : "CANCELED"
       } ]
     } ]
   } ]

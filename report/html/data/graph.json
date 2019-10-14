@@ -1,14 +1,25 @@
 {
   "testCases" : [ {
-    "uid" : "4a8288b6e766bb9d",
+    "uid" : "b3977af673a9a612",
+    "name" : "TestUserInfo.test_userinfo",
+    "title" : "Test userinfo",
+    "time" : {
+      "start" : 1543996563818,
+      "stop" : 1543996563818,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "CANCELED"
+  }, {
+    "uid" : "914e1e68585e9c2d",
     "name" : "test_answer",
     "title" : "Test answer",
     "time" : {
-      "start" : 1543196380875,
-      "stop" : 1543196380877,
-      "duration" : 2
+      "start" : 1543996563812,
+      "stop" : 1543996563817,
+      "duration" : 5
     },
     "severity" : "NORMAL",
-    "status" : "PASSED"
+    "status" : "CANCELED"
   } ]
 }

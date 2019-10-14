@@ -1,0 +1,53 @@
+{
+  "uid" : "6bcff1fc22b1b42b",
+  "name" : "TestUserInfo.test_userinfo",
+  "title" : "Test userinfo",
+  "time" : {
+    "start" : 1543996480882,
+    "stop" : 1543996480883,
+    "duration" : 1
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : {
+    "message" : "Skipped: Not suitable with selected labels: ('feature', 'Home'), ('feature', 'Personal').",
+    "stackTrace" : ""
+  },
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "CANCELED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "17e8e05e98e5927a",
+    "name" : "userinfo_test",
+    "title" : "Userinfo test"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "QFdeMacBook-Pro.local"
+  }, {
+    "name" : "suite-name",
+    "value" : "userinfo_test"
+  }, {
+    "name" : "thread",
+    "value" : "6415-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  } ],
+  "parameters" : [ ]
+}

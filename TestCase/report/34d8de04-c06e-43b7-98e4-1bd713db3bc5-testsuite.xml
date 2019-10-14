@@ -1,0 +1,24 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1545644159038" stop="1545644159041">
+  <name>test_sample</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1545644159038" status="passed" stop="1545644159041">
+      <description>
+    用例描述1：test case 01
+
+    </description>
+      <name>test_answer</name>
+      <attachments/>
+      <labels>
+        <label name="feature" value="test_module_01"/>
+        <label name="story" value="test_story_o1"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="66111-MainThread"/>
+        <label name="host" value="QFdeMacBook-Pro.local"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

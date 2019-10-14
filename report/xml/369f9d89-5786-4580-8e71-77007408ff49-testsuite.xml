@@ -1,0 +1,28 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1543996563812" stop="1543996563817">
+  <name>test_sample</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1543996563812" status="canceled" stop="1543996563817">
+      <description>
+    用例描述1：test case 01
+
+    </description>
+      <name>test_answer</name>
+      <failure>
+        <message>Skipped: Not suitable with selected labels: ('feature', 'Home'), ('feature', 'Personal').</message>
+        <stack-trace></stack-trace>
+      </failure>
+      <attachments/>
+      <labels>
+        <label name="feature" value="test_module_01"/>
+        <label name="story" value="test_story_o1"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="6451-MainThread"/>
+        <label name="host" value="QFdeMacBook-Pro.local"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>
